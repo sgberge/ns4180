@@ -1,0 +1,93 @@
+{
+    "@context": "https://schema.org",
+    "@type": "CreativeWork",
+    "name": "Tall og tallforståelse",
+    "identifier": "https://www.inserturlhere.com",
+    "inLanguage": "nb-NO",
+    "learningResourceType": "learningActivity",
+    "publisher": {
+        "@type": "Organization",
+        "legalName": "Rundre AS"
+    },
+    "audience": [
+        {
+            "@type": "Audience",
+            "audienceType": "student"
+        },
+        {
+            "@type": "Audience",
+            "audienceType": "teacher"
+        }
+    ],
+    "dateModified": "2021-02-24",
+    "datePublished": "2021-01-01",
+    "educationalUse": "instruction",
+    "hasPart": [
+        {
+            "@type": "CreativeWork",
+            "name": "Aktivitet 1: Tall og tallforståelse",
+            "identifier": "https://www.inserturlhere.com",
+            "audience": [
+                {
+                    "@type": "Audience",
+                    "audienceType": "student"
+                },
+                {
+                    "@type": "Audience",
+                    "audienceType": "teacher"
+                }
+            ],
+            "dateModified": "2021-02-24",
+            "datePublished": "2020-01-01",
+            "educationalUse": "instruction",
+            "learningResourceType": "learningActivity",
+            "publisher": {
+                "@type": "Organization",
+                "legalName": "Rundre AS"
+            }
+        },
+        {
+            "@type": "CreativeWork",
+            "name": "Aktivitet 2: Tall og tallforståelse",
+            "identifier": "https://www.inserturlhere.com",
+            "audience": [
+                {
+                    "@type": "Audience",
+                    "audienceType": "student"
+                },
+                {
+                    "@type": "Audience",
+                    "audienceType": "teacher"
+                }
+            ],
+            "dateModified": "2021-02-24",
+            "datePublished": "2020-01-01",
+            "educationalUse": "instruction",
+            "learningResourceType": "learningActivity",
+            "publisher": {
+                "@type": "Organization",
+                "legalName": "Rundre AS"
+            }
+        }
+    ],
+
+    "educationalAlignment": [
+        {
+            "@type": "AlignmentObject",
+            "alignmentType": "teaches",
+            "educationalFramework": "Kunnskapsløftet",
+            "targetDescription": "forstå og bruke tall og grunnleggende matematiske begreper",
+            "targetName": "KM1",
+            "targetUrl": "https://data.udir.no/kl06/v201906/kompetansemaal-lk20/KM1672"
+        },
+        {
+            "@type": "AlignmentObject",
+            "alignmentType": "teaches",
+            "educationalFramework": "Kunnskapsløftet",
+            "targetDescription": "samtale om identitet, mangfald og fellesskap og reflektere over korleis det kan opplevast ikkje å vere ein del av fellesskapet",
+            "targetName": "KM1636",
+            "targetUrl": "https://data.udir.no/kl06/v201906/kompetansemaal-lk20/KM1636"
+        }
+
+    ]
+}
